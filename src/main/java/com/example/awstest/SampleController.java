@@ -9,6 +9,6 @@ public class SampleController {
 
     @GetMapping("/main")
     public String mainPage() {
-        return "main";
+        return "main test";
     }
 }
